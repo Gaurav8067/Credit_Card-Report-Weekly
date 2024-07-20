@@ -1,5 +1,5 @@
-# PowerBI_Dashboard_Project
-# Power BI Dashboard Repository
+
+# Credit Card Report
 
 Welcome to my Power BI Dashboard repository! This repository contains interactive dashboards and reports created using Power BI to visualize data and drive insights.
 
